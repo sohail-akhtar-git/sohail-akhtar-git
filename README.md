@@ -1,4 +1,4 @@
-<img src="https://www.entitydata.com.au/wp-content/uploads/2019/10/about-banner.jpg" height="300" width="100%"></img>
+<img src="https://www.entitydata.com.au/wp-content/uploads/2019/10/about-banner.jpg" height="240" width="100%"></img>
 <h1 align="center" >   Hi 👋, I'm Sohail Akhtar</h1>
 <h3 align="center">A passionate Learner and problem solver from India</h3>
  <img align="right" src="https://i0.wp.com/secure.wphackedhelp.com/blog/wp-content/uploads/2018/05/Regular-Website-Maintenance-tasks.gif?resize=345%2C259&ssl=1" width="380" height="280"></img>
