@@ -1,4 +1,5 @@
-<h1 align="center" background="https://th.bing.com/th/id/OIGP.CAILEUGlI1EU4gaiZ3eB?pid=ImgGn&rs=1">   Hi 👋, I'm Sohail Akhtar</h1>
+<img src="https://th.bing.com/th/id/OIGP.CAILEUGlI1EU4gaiZ3eB?pid=ImgGn&rs=1" height="100" width="400"></img>
+<h1 align="center" >   Hi 👋, I'm Sohail Akhtar</h1>
 <h3 align="center">A passionate Learner and problem solver from India</h3>
  <img align="right" src="https://i0.wp.com/secure.wphackedhelp.com/blog/wp-content/uploads/2018/05/Regular-Website-Maintenance-tasks.gif?resize=345%2C259&ssl=1" width="380" height="280"></img>
 
