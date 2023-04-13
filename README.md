@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Flutter,AWS and Cloud Computing**
 
 - 📫 How to reach me **mcgsameeryt786@gmail.com**
-- <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="180" height="180"</img>
+- <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="180" height="180"></img>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
