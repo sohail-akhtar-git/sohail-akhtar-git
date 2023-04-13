@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/114871279?v=4" alt="unity" width="40" height="40"/><h1 align="center">   Hi 👋, I'm Sohail Akhtar</h1>
+<img src="https://avatars.githubusercontent.com/u/114871279?v=4" alt="unity" width="70" height="70"/><h1 align="center">   Hi 👋, I'm Sohail Akhtar</h1>
 <h3 align="center">A passionate Learner and problem solver from India</h3>
 
 - 🌱 I’m currently learning **Flutter,AWS and Cloud Computing**
