@@ -1,10 +1,11 @@
 <img src="https://avatars.githubusercontent.com/u/114871279?v=4" alt="unity" width="70" height="70"/><h1 align="center">   Hi 👋, I'm Sohail Akhtar</h1>
 <h3 align="center">A passionate Learner and problem solver from India</h3>
+ <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="380" height="380"></img>
 
 - 🌱 I’m currently learning **Flutter,AWS and Cloud Computing**
 
 - 📫 How to reach me **mcgsameeryt786@gmail.com**
-- <img align="right" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="180" height="180"></img>
+-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
