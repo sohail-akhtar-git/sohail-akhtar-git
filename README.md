@@ -1,6 +1,6 @@
 <img src="https://avatars.githubusercontent.com/u/114871279?v=4" alt="unity" width="70" height="70"/><h1 align="center">   Hi 👋, I'm Sohail Akhtar</h1>
 <h3 align="center">A passionate Learner and problem solver from India</h3>
- <img align="right" src="https://i0.wp.com/secure.wphackedhelp.com/blog/wp-content/uploads/2018/05/Regular-Website-Maintenance-tasks.gif?resize=345%2C259&ssl=1" width="280" height="380"></img>
+ <img align="right" src="https://i0.wp.com/secure.wphackedhelp.com/blog/wp-content/uploads/2018/05/Regular-Website-Maintenance-tasks.gif?resize=345%2C259&ssl=1" width="380" height="280"></img>
 
 - 🌱 I’m currently learning **Flutter,AWS and Cloud Computing**
 
