@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <img src="https://www.entitydata.com.au/wp-content/uploads/2019/10/about-banner.jpg" height="240" width="100%"></img>
 <h1 align="center" >   Hi 👋, I'm Sohail Akhtar</h1>
 <h3 align="center">A passionate Learner and problem solver from India</h3>
@@ -6,6 +8,9 @@
 - 🌱 I’m currently learning **Flutter,AWS and Cloud Computing**
 
 - 📫 How to reach me **mcgsameeryt786@gmail.com**
+
+- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sohail--akhtar" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sohail--akhtar?trk=profile-badge">Sohail Akhtar</a></div>
+              
 -
 
 <h3 align="left">Connect with me:</h3>
