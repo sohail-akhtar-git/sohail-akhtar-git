@@ -1,6 +1,4 @@
-<head>
- <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</head>
+
 
 <img src="https://www.entitydata.com.au/wp-content/uploads/2019/10/about-banner.jpg" height="240" width="100%"></img>
 <h1 align="center" >   Hi 👋, I'm Sohail Akhtar</h1>
